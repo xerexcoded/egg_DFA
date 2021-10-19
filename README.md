@@ -1,3 +1,3 @@
 # just trying out DFA | ͡⎚╭╮ ͡⎚|
 
-[](s.jpg)
+[](https://github.com/xerexcoded/egg_DFA/blob/main/s.jpg)
